@@ -1,0 +1,119 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ArrayException",
+            "request": "launch",
+            "mainClass": "ArrayException",
+            "projectName": "java_393945e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch DrawCircle",
+            "request": "launch",
+            "mainClass": "DrawCircle",
+            "projectName": "java_393945e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MouseDemo",
+            "request": "launch",
+            "mainClass": "MouseDemo",
+            "projectName": "java_393945e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch E3_1",
+            "request": "launch",
+            "mainClass": "E3_1",
+            "projectName": "java_393945e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch E2_3",
+            "request": "launch",
+            "mainClass": "E2_3",
+            "projectName": "java_393945e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo8_4",
+            "request": "launch",
+            "mainClass": "Demo8_4",
+            "projectName": "java_393945e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo8_2",
+            "request": "launch",
+            "mainClass": "Demo8_2",
+            "projectName": "java_393945e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyFrame",
+            "request": "launch",
+            "mainClass": "MyFrame",
+            "projectName": "java_393945e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "java_393945e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch FiveChess",
+            "request": "launch",
+            "mainClass": "FiveChess",
+            "projectName": "java_393945e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch HiStudent",
+            "request": "launch",
+            "mainClass": "HiStudent",
+            "projectName": "java_393945e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Circle",
+            "request": "launch",
+            "mainClass": "Circle",
+            "projectName": "java_393945e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestCircle",
+            "request": "launch",
+            "mainClass": "TestCircle",
+            "projectName": "java_393945e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch text",
+            "request": "launch",
+            "mainClass": "text",
+            "projectName": "java_393945e4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch start",
+            "request": "launch",
+            "mainClass": "start",
+            "projectName": "java_393945e4"
+        }
+    ]
+}

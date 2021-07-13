@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../python"
+		},
+		{
+			"path": "../../Downloads/java-Mysql学生成绩管理系统/CourseSys"
+		},
+		{
+			"path": "../../Downloads/java-Mysql学生成绩管理系统/Course selection system（012 朱康）"
+		},
+		{
+			"path": "../../Downloads/java-Mysql学生成绩管理系统/data"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			""
+		],
+		"java.dependency.syncWithFolderExplorer": true
+	}
+}
